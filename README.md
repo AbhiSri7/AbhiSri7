@@ -1,10 +1,7 @@
 # Hi there, I'm Abhishek👋
 
-
-## I'm a Student and an Aspiring Developer
-
-- :mortar_board: I'm currently pursuing a **B. Tech in Computer Science** from **Manipal Institute Of Technology, Karnataka**
-- 👯 I’m looking to work with other developers
+- :mortar_board: I'm currently pursuing a **B. Tech in Computer Science** from **Manipal Institute of Technology, Karnataka**
+- 👯 I’m an aspiring developer
 
 
 ### Connect with me:
@@ -16,6 +13,9 @@
 
 ### Languages and Tools:
 
+<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
+<img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/17773218/56295546-32a81200-60ea-11e9-8761-0b726b20fd51.png" />
+<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
