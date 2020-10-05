@@ -3,9 +3,8 @@
 
 ## I'm a Student and an Aspiring Developer
 
-- :mortar_board: I'm currently pursuing a **B. Tech in Information Technology** from **Manipal Institute Of Technology**
+- :mortar_board: I'm currently pursuing a **B. Tech in Computer Science** from **Manipal Institute Of Technology, Karnataka**
 - 👯 I’m looking to work with other developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
 
 
 ### Connect with me:
@@ -38,10 +37,10 @@
 
 ## GitHub Stats
 
-![Archit's github stats](https://github-readme-stats.vercel.app/api?username=rarchitgupta&count_private=true&theme=dracula&include_all_commits=true&hide=stars,issues&show_icons=true)
+![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=AbhiSri7&count_private=true&theme=dracula&include_all_commits=true&hide=stars,issues&show_icons=true)
 
-[instagram]: https://www.instagram.com/rchitgupta/
-[linkedin]: https://linkedin.com/in/rarchit-gupta
+[instagram]: https://www.instagram.com/sri.abhi_07/
+[linkedin]: https://www.linkedin.com/in/abhishek-srivastav7
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
 [cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
