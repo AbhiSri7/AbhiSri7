@@ -39,6 +39,10 @@
 
 ![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=AbhiSri7&count_private=true&theme=dracula&include_all_commits=true&hide=stars,issues&show_icons=true)
 
+## Most Used Languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbhiSri7&layout=compact)](https://github.com/AbhiSri7/github-readme-stats)
+
 [instagram]: https://www.instagram.com/sri.abhi_07/
 [linkedin]: https://www.linkedin.com/in/abhishek-srivastav7
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
