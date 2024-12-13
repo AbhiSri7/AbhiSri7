@@ -1,6 +1,6 @@
 # Hi there, I'm Abhishek👋
 
-- :mortar_board: I'm currently working as a **Software Engineer** at **Bajaj Finserv**
+- :mortar_board: I'm currently working as a **Senior Software Engineer** at **Bajaj Finserv**
 - 👯 I'm a **B. Tech in Computer Science** graduate from **Manipal Institute of Technology, Karnataka**
 
 
